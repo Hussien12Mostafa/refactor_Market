@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918869673366",
+    "project_id": "market-b891a",
+    "storage_bucket": "market-b891a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918869673366:android:90a647c29d5eb66f8049b7",
+        "android_client_info": {
+          "package_name": "com.hussien12max.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918869673366-63r33mb6c45j94378r668c8lrrnkachr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK0TMB6CaqJdvivodifKSTSBS8N2h2py8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918869673366-63r33mb6c45j94378r668c8lrrnkachr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
